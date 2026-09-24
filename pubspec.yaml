@@ -1,8 +1,8 @@
 name: street_beacon
 description: A Flutter plugin for emergency & unexpected assistance. Translates GPS coordinates into Indian postal addresses, spoken dispatcher scripts (112/108), and offline 2G SMS beacons.
 version: 0.0.1
-homepage: https://github.com/example/street_beacon
-issue_tracker: https://github.com/example/street_beacon/issues
+homepage: https://github.com/srini1971/street_beacon
+issue_tracker: https://github.com/srini1971/street_beacon/issues
 topics:
   - geolocation
   - geocoder
